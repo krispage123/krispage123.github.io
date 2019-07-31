@@ -1,0 +1,47 @@
+<!--NEVER FORGET THIS-->
+<!DOCTYPE html>
+<!--opening tags-->
+<html>
+<head>
+
+  <style>
+    h1{
+       color: #379B9B1
+  }
+  </style>
+
+<h1>
+  <!-- wow ooh -->
+  Blog of Taipei!
+</h1>
+<h2>
+  I hope I can convince you to come visit!
+</h2>
+
+</head>
+
+
+
+<body bgcolor= #79B9B1>
+
+  </style>
+<b3>
+  So Taipei, the capital of Taiwan, is a modern metropolis with busy shopping streets and contemporary buildings. The skyline is crowned by the 509m-tall, bamboo-shaped Taipei 101 skyscraper, with upscale shops at the base and a rapid elevator to an observatory near the top. Taipei is also known for its lively street-food scene and many night markets, including expansive Shilin market.
+</b3>
+
+<img src="101tower.JPG" style="width:500px;height:400px;">>
+<<p>  I like to think of Taiwan as the "Home of Boba" sometimes</p>
+<img src="boba.JPG" style="width:200px;height:300px;">
+
+
+
+<p3></<p>
+  My favorite thing about Taiwan are the night markets such as Ximending Market, Shilin Market, and Raohe Market
+<img src="nightmarket.JPG" style=width:500px;height:300px;>
+<b3>
+I also took the train to Shifen Station to relase light lanterns on the railroad tracks.  You can choose your own colored lantern where each color represents something different and write your wishes onto it.
+<img src="lantern.JPG" style="width:300px;height:200px;">>
+<script src="inClassJS.js"></script>
+</body>
+<!--closing tags-->
+</html>
